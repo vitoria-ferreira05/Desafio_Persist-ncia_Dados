@@ -11,3 +11,7 @@ https://drive.google.com/file/d/1o3hQoPmd20BZ0wKQtHkZmC9fB03AppR3/view?usp=shari
 **Link do código:**
 
 https://drive.google.com/drive/folders/1a9OhehMKcneG8De8MZyNHRkID-7MFeOw?usp=drive_link
+
+**Link do modelo relacional:**
+
+https://drive.google.com/file/d/1K-Zo2de8M2XM5QjriAidLQXlHNruNOkt/view?usp=sharing
